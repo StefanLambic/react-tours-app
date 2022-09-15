@@ -1,4 +1,6 @@
-# To see this project in action click here https://stefanlambic.github.io/react-tours-app/
+# To see this project in action click here
+https://stefanlambic.github.io/react-tours-app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
